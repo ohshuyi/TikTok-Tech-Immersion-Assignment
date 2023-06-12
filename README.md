@@ -1,3 +1,3 @@
-# Oh ShuYi - TikTok- Tech Immersion- Backend Assignment - 2023
+# Oh ShuYi TikTok Tech Immersion Backend Assignment
 
 Backend Instant Messaging System of 2023 TikTok Tech Immersion.
